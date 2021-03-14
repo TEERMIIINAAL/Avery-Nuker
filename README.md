@@ -1,2 +1,4 @@
 # Avery-Nuker
-Seraph Nuker
+Avery Nuker
+
+- credits yum x skeet
