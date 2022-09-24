@@ -379,7 +379,7 @@ class Avery:
                           \033[90m╠═╣╚╗╔╝║╣ ╠╦╝╚╦╝  ║║║║ ║╠╩╗║╣ ╠╦╝
                           \033[37m╩ ╩ ╚╝ ╚═╝╩╚═ ╩   ╝╚╝╚═╝╩ ╩╚═╝╩╚═
 
-                            {self.colour}[\033[37mDiscord{self.colour}] \033[37mskeet#1000
+                            {self.colour}[\033[37mDiscord{self.colour}] \033[37m  Yumeko!!! & skeet#1000
                             {self.colour}[\033[37mGithub{self.colour}] \033[37mskeqt
 
         \033[37m''')
